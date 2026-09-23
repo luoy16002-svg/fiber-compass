@@ -1,0 +1,55 @@
+{
+  "parameters": [
+    1.5,
+    3.0
+  ],
+  "method": "sigma1.5_rho3",
+  "confidence_threshold": 0.75,
+  "calibration_met_target": true,
+  "confidence_risk": {
+    "0.0": {
+      "samples": 6351,
+      "coverage": 1.0,
+      "mean_degrees": 28.268440885683173,
+      "median_degrees": 13.292312354717495,
+      "p90_degrees": 78.66545403380158,
+      "over_30_degrees": 0.328803206245617
+    },
+    "0.25": {
+      "samples": 4983,
+      "coverage": 0.791300025745781,
+      "mean_degrees": 24.365884543390116,
+      "median_degrees": 10.451813145667566,
+      "p90_degrees": 77.56396692834335,
+      "over_30_degrees": 0.2549191691254383
+    },
+    "0.5": {
+      "samples": 2693,
+      "coverage": 0.4330264469384828,
+      "mean_degrees": 15.794367447690448,
+      "median_degrees": 7.24646706632842,
+      "p90_degrees": 64.00574053895126,
+      "over_30_degrees": 0.12107676134158293
+    },
+    "0.75": {
+      "samples": 762,
+      "coverage": 0.12419098160795722,
+      "mean_degrees": 8.425957652125085,
+      "median_degrees": 5.205641072547697,
+      "p90_degrees": 10.51846673440648,
+      "over_30_degrees": 0.03721359042664786
+    },
+    "0.9": {
+      "samples": 74,
+      "coverage": 0.013464936641782499,
+      "mean_degrees": 4.881847805627621,
+      "median_degrees": 4.522975671507235,
+      "p90_degrees": 6.194065910300454,
+      "over_30_degrees": 0.007335009048040407
+    }
+  },
+  "fixed_axis": "fixed_z",
+  "protocol_sha256": "b147c15abb8db08a1ec5ad9e32a3442a3941a362cf572d2d3776e4fa38b225d1",
+  "compass_sha256": "2f2007d0cdbbbf0d76e99ff857a95e2af2e6da7533fd9bc67055afd8fce5f5c9",
+  "frozen_utc": "2026-09-23T18:53:28.327592+00:00"
+}

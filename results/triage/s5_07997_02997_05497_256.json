@@ -1,0 +1,573 @@
+{
+  "samples": 866,
+  "invalid_predictions": 0,
+  "all_samples": {
+    "samples": 866,
+    "coverage": 1.0,
+    "mean_degrees": 24.142878644731518,
+    "median_degrees": 13.141748951463091,
+    "p90_degrees": 73.23229469504051,
+    "over_30_degrees": 0.24577319357044014
+  },
+  "thresholds": {
+    "0": {
+      "samples": 866,
+      "coverage": 1.0,
+      "mean_degrees": 24.142878644731518,
+      "median_degrees": 13.141748951463091,
+      "p90_degrees": 73.23229469504051,
+      "over_30_degrees": 0.24577319357044014
+    },
+    "0.25": {
+      "samples": 632,
+      "coverage": 0.7247589433697068,
+      "mean_degrees": 18.32475014887725,
+      "median_degrees": 10.320351662871984,
+      "p90_degrees": 57.48640169694994,
+      "over_30_degrees": 0.14758917390373602
+    },
+    "0.5": {
+      "samples": 267,
+      "coverage": 0.2821890351802742,
+      "mean_degrees": 11.319177254392804,
+      "median_degrees": 6.771879188586001,
+      "p90_degrees": 18.49716565377638,
+      "over_30_degrees": 0.05414701076794116
+    },
+    "0.75": {
+      "samples": 45,
+      "coverage": 0.042628053585500376,
+      "mean_degrees": 6.321654449498951,
+      "median_degrees": 5.235507454921662,
+      "p90_degrees": 11.865902515922592,
+      "over_30_degrees": 0.0
+    },
+    "0.9": {
+      "samples": 1,
+      "coverage": 0.0008865248226950354,
+      "mean_degrees": 2.0035325888319973,
+      "median_degrees": 2.0035325888319973,
+      "p90_degrees": 2.0035325888319973,
+      "over_30_degrees": 0.0
+    }
+  },
+  "worst_fibers": [
+    {
+      "samples": 17,
+      "coverage": 1.0,
+      "mean_degrees": 50.62820849096523,
+      "median_degrees": 58.12855557447186,
+      "p90_degrees": 82.7109742086221,
+      "over_30_degrees": 0.6470588235294119,
+      "fiber_index": 76,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 47.98743333888163,
+      "median_degrees": 56.165238279682484,
+      "p90_degrees": 80.73154366964155,
+      "over_30_degrees": 0.64,
+      "fiber_index": 15,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 42.67620226972466,
+      "median_degrees": 32.19379735735261,
+      "p90_degrees": 79.12105451484513,
+      "over_30_degrees": 0.5185185185185183,
+      "fiber_index": 74,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 26,
+      "coverage": 1.0,
+      "mean_degrees": 40.91270814530217,
+      "median_degrees": 32.24910442940603,
+      "p90_degrees": 81.18095224051284,
+      "over_30_degrees": 0.5384615384615383,
+      "fiber_index": 45,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 39.08147420355157,
+      "median_degrees": 37.09420789942876,
+      "p90_degrees": 74.71608158572074,
+      "over_30_degrees": 0.64,
+      "fiber_index": 11,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 38.77913375397834,
+      "median_degrees": 30.539609731957725,
+      "p90_degrees": 82.02099276592016,
+      "over_30_degrees": 0.5185185185185183,
+      "fiber_index": 66,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 15,
+      "coverage": 1.0,
+      "mean_degrees": 37.96315471814596,
+      "median_degrees": 23.813433533604243,
+      "p90_degrees": 77.3662512437101,
+      "over_30_degrees": 0.4000000000000001,
+      "fiber_index": 13,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 26,
+      "coverage": 1.0,
+      "mean_degrees": 37.4100296074832,
+      "median_degrees": 28.570273411542814,
+      "p90_degrees": 78.52637516055397,
+      "over_30_degrees": 0.49999999999999994,
+      "fiber_index": 72,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 11,
+      "coverage": 1.0,
+      "mean_degrees": 37.20891689114585,
+      "median_degrees": 24.509563527507886,
+      "p90_degrees": 85.7082706208615,
+      "over_30_degrees": 0.45454545454545453,
+      "fiber_index": 32,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 3,
+      "coverage": 1.0,
+      "mean_degrees": 36.685558076039555,
+      "median_degrees": 15.323298854101534,
+      "p90_degrees": 61.158708710314244,
+      "over_30_degrees": 0.3333333333333333,
+      "fiber_index": 20,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 36.4205517666304,
+      "median_degrees": 25.80810894129857,
+      "p90_degrees": 83.51743313131902,
+      "over_30_degrees": 0.4,
+      "fiber_index": 9,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 26,
+      "coverage": 1.0,
+      "mean_degrees": 35.924850505840574,
+      "median_degrees": 18.069146695998345,
+      "p90_degrees": 84.93742191932259,
+      "over_30_degrees": 0.3846153846153846,
+      "fiber_index": 34,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 4,
+      "coverage": 1.0,
+      "mean_degrees": 33.88495150964093,
+      "median_degrees": 13.978057619726581,
+      "p90_degrees": 60.03267728680184,
+      "over_30_degrees": 0.5,
+      "fiber_index": 21,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 3,
+      "coverage": 1.0,
+      "mean_degrees": 33.3077431694745,
+      "median_degrees": 9.037820800623521,
+      "p90_degrees": 60.77063700788173,
+      "over_30_degrees": 0.3333333333333333,
+      "fiber_index": 19,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 33.25546298215962,
+      "median_degrees": 24.493948767289975,
+      "p90_degrees": 65.36965249764597,
+      "over_30_degrees": 0.4814814814814813,
+      "fiber_index": 73,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 6,
+      "coverage": 1.0,
+      "mean_degrees": 32.34565082035178,
+      "median_degrees": 20.469586230386806,
+      "p90_degrees": 61.74153688720545,
+      "over_30_degrees": 0.33333333333333337,
+      "fiber_index": 77,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 32.02680790443764,
+      "median_degrees": 19.54220145807749,
+      "p90_degrees": 75.48021639691302,
+      "over_30_degrees": 0.4,
+      "fiber_index": 55,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 26,
+      "coverage": 1.0,
+      "mean_degrees": 30.996957941506558,
+      "median_degrees": 20.383756548026195,
+      "p90_degrees": 85.35513144496933,
+      "over_30_degrees": 0.3461538461538461,
+      "fiber_index": 46,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 29.30950696076224,
+      "median_degrees": 19.694665530107955,
+      "p90_degrees": 73.10527916651345,
+      "over_30_degrees": 0.2962962962962962,
+      "fiber_index": 14,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 27.537256651556394,
+      "median_degrees": 14.961080636066516,
+      "p90_degrees": 69.54940048621782,
+      "over_30_degrees": 0.2962962962962962,
+      "fiber_index": 29,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 26.083689940750155,
+      "median_degrees": 17.972401498065338,
+      "p90_degrees": 55.76424880378478,
+      "over_30_degrees": 0.27999999999999997,
+      "fiber_index": 24,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 24,
+      "coverage": 1.0,
+      "mean_degrees": 23.468933878284517,
+      "median_degrees": 21.03211714902738,
+      "p90_degrees": 35.75144015573255,
+      "over_30_degrees": 0.20833333333333331,
+      "fiber_index": 6,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 12,
+      "coverage": 1.0,
+      "mean_degrees": 22.95834897438125,
+      "median_degrees": 9.47088518551793,
+      "p90_degrees": 65.32582240086714,
+      "over_30_degrees": 0.25000000000000006,
+      "fiber_index": 75,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 8,
+      "coverage": 1.0,
+      "mean_degrees": 21.767253691475386,
+      "median_degrees": 7.717823657995123,
+      "p90_degrees": 59.63521926906353,
+      "over_30_degrees": 0.25,
+      "fiber_index": 44,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 24,
+      "coverage": 1.0,
+      "mean_degrees": 21.49462950066091,
+      "median_degrees": 8.58572763316271,
+      "p90_degrees": 61.831305924444564,
+      "over_30_degrees": 0.20833333333333331,
+      "fiber_index": 12,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 5,
+      "coverage": 1.0,
+      "mean_degrees": 21.368591354898953,
+      "median_degrees": 4.91085926251502,
+      "p90_degrees": 47.620509913724696,
+      "over_30_degrees": 0.2,
+      "fiber_index": 49,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 11,
+      "coverage": 1.0,
+      "mean_degrees": 20.917289796387646,
+      "median_degrees": 10.996631285420692,
+      "p90_degrees": 31.976756133789028,
+      "over_30_degrees": 0.1818181818181818,
+      "fiber_index": 2,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 1,
+      "coverage": 1.0,
+      "mean_degrees": 20.824174124540676,
+      "median_degrees": 20.824174124540676,
+      "p90_degrees": 20.824174124540676,
+      "over_30_degrees": 0.0,
+      "fiber_index": 47,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 24,
+      "coverage": 1.0,
+      "mean_degrees": 19.586175930895596,
+      "median_degrees": 10.348921353233392,
+      "p90_degrees": 55.5516898015844,
+      "over_30_degrees": 0.16666666666666666,
+      "fiber_index": 26,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 18.78771875073849,
+      "median_degrees": 10.078638550483266,
+      "p90_degrees": 41.25752061720405,
+      "over_30_degrees": 0.16,
+      "fiber_index": 10,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 24,
+      "coverage": 1.0,
+      "mean_degrees": 16.13826654860915,
+      "median_degrees": 8.816008163189471,
+      "p90_degrees": 38.14315564416342,
+      "over_30_degrees": 0.16666666666666666,
+      "fiber_index": 51,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 20,
+      "coverage": 1.0,
+      "mean_degrees": 16.135713366105303,
+      "median_degrees": 10.433252610968006,
+      "p90_degrees": 28.095581672152356,
+      "over_30_degrees": 0.09999999999999998,
+      "fiber_index": 61,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 11,
+      "coverage": 1.0,
+      "mean_degrees": 15.72798003809658,
+      "median_degrees": 11.9782612346408,
+      "p90_degrees": 19.368619204895705,
+      "over_30_degrees": 0.0909090909090909,
+      "fiber_index": 50,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 15.114375114458737,
+      "median_degrees": 11.825388902477957,
+      "p90_degrees": 30.32181930124105,
+      "over_30_degrees": 0.12,
+      "fiber_index": 54,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 18,
+      "coverage": 1.0,
+      "mean_degrees": 13.446895338348268,
+      "median_degrees": 8.197890852134542,
+      "p90_degrees": 18.239401900305133,
+      "over_30_degrees": 0.055555555555555546,
+      "fiber_index": 0,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 6,
+      "coverage": 1.0,
+      "mean_degrees": 12.575335271831706,
+      "median_degrees": 9.853133525323237,
+      "p90_degrees": 17.90995137063934,
+      "over_30_degrees": 0.0,
+      "fiber_index": 52,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 11.310236679005033,
+      "median_degrees": 8.252175077247461,
+      "p90_degrees": 21.88496453102587,
+      "over_30_degrees": 0.07407407407407406,
+      "fiber_index": 60,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 8,
+      "coverage": 1.0,
+      "mean_degrees": 11.03100645186821,
+      "median_degrees": 8.284687042865718,
+      "p90_degrees": 19.797572313298918,
+      "over_30_degrees": 0.0,
+      "fiber_index": 57,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 10.556085904886677,
+      "median_degrees": 7.470840479704472,
+      "p90_degrees": 16.934223680057066,
+      "over_30_degrees": 0.04,
+      "fiber_index": 65,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 12,
+      "coverage": 1.0,
+      "mean_degrees": 8.910724918971688,
+      "median_degrees": 6.7034891548890485,
+      "p90_degrees": 15.955886314261978,
+      "over_30_degrees": 0.0,
+      "fiber_index": 7,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 27,
+      "coverage": 1.0,
+      "mean_degrees": 8.458504761691596,
+      "median_degrees": 7.379554790632443,
+      "p90_degrees": 14.112421822403578,
+      "over_30_degrees": 0.03703703703703703,
+      "fiber_index": 27,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 7.754648866180401,
+      "median_degrees": 5.959950183552307,
+      "p90_degrees": 12.875434797075789,
+      "over_30_degrees": 0.0,
+      "fiber_index": 63,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 5,
+      "coverage": 1.0,
+      "mean_degrees": 7.324276964876797,
+      "median_degrees": 4.1837250759075735,
+      "p90_degrees": 12.715364469041571,
+      "over_30_degrees": 0.0,
+      "fiber_index": 58,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 2,
+      "coverage": 1.0,
+      "mean_degrees": 7.2948112430074366,
+      "median_degrees": 4.877385405358563,
+      "p90_degrees": 8.745266745596759,
+      "over_30_degrees": 0.0,
+      "fiber_index": 25,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 7.19300211770341,
+      "median_degrees": 4.370661506910732,
+      "p90_degrees": 14.132976456467311,
+      "over_30_degrees": 0.0,
+      "fiber_index": 64,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 24,
+      "coverage": 1.0,
+      "mean_degrees": 7.117205829685199,
+      "median_degrees": 5.239636302025332,
+      "p90_degrees": 13.139136975452741,
+      "over_30_degrees": 0.0,
+      "fiber_index": 1,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    },
+    {
+      "samples": 25,
+      "coverage": 1.0,
+      "mean_degrees": 7.026861236462688,
+      "median_degrees": 6.494216171721652,
+      "p90_degrees": 12.700270309876212,
+      "over_30_degrees": 0.0,
+      "fiber_index": 70,
+      "invalid_predictions": 0,
+      "high_confidence_over_30": 0
+    }
+  ]
+}

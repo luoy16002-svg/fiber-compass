@@ -1,0 +1,7 @@
+numpy>=2.0,<3
+scipy>=1.14,<2
+tifffile>=2024.8
+matplotlib>=3.9,<4
+requests>=2.32,<3
+zarr>=3.0,<4
+pytest>=8,<10

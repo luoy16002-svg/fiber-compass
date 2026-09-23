@@ -1,0 +1,114 @@
+{
+  "annotation_audit": {
+    "things": 2489,
+    "nodes": 92641,
+    "components": 2478,
+    "branch_components": 30,
+    "cyclic_components": 0,
+    "singleton_components": 1,
+    "empty_things": 11,
+    "valid_paths": 2447,
+    "duplicate_edges": 0,
+    "zero_length_edges": 688,
+    "short_paths": 0,
+    "border_excluded_samples": 72011,
+    "degenerate_tangent_samples": 0,
+    "eligible_paths": 1783
+  },
+  "orientation_strata": {
+    "Near Z": {
+      "all": {
+        "samples": 27155,
+        "coverage": 1.0,
+        "mean_degrees": 33.22730049629385,
+        "median_degrees": 20.46952108932084,
+        "p90_degrees": 80.18753444967508,
+        "over_30_degrees": 0.40996699267413717
+      },
+      "retained": {
+        "samples": 410,
+        "coverage": 0.015421166567707142,
+        "mean_degrees": 17.19353563494655,
+        "median_degrees": 6.085886896937798,
+        "p90_degrees": 88.11790962839831,
+        "over_30_degrees": 0.13687651011949406
+      },
+      "population_weight": 0.3670311635740928
+    },
+    "Near XY": {
+      "all": {
+        "samples": 30358,
+        "coverage": 1.0,
+        "mean_degrees": 23.706028517742723,
+        "median_degrees": 13.119664974779457,
+        "p90_degrees": 68.71218638214746,
+        "over_30_degrees": 0.2596464590014818
+      },
+      "retained": {
+        "samples": 871,
+        "coverage": 0.03705008182295245,
+        "mean_degrees": 6.055136266109144,
+        "median_degrees": 4.8465793885055914,
+        "p90_degrees": 11.176771610976886,
+        "over_30_degrees": 0.005917678662626201
+      },
+      "population_weight": 0.5490349481613224
+    },
+    "Oblique": {
+      "all": {
+        "samples": 5185,
+        "coverage": 1.0,
+        "mean_degrees": 33.91932326889584,
+        "median_degrees": 23.253964434320437,
+        "p90_degrees": 80.44970912311645,
+        "over_30_degrees": 0.4180996136105169
+      },
+      "retained": {
+        "samples": 81,
+        "coverage": 0.01611915263778353,
+        "mean_degrees": 35.645937848844675,
+        "median_degrees": 10.164755936579237,
+        "p90_degrees": 89.0544217904283,
+        "over_30_degrees": 0.3611721929408016
+      },
+      "population_weight": 0.08393388826458478
+    }
+  },
+  "reference_on_selected_retained_subset": {
+    "samples": 1362,
+    "coverage": 0.027354781618472414,
+    "mean_degrees": 14.66553620967087,
+    "median_degrees": 9.688370752606874,
+    "p90_degrees": 28.125543732627428,
+    "over_30_degrees": 0.07982527661257356
+  },
+  "cluster_bootstrap_95_percent_intervals": {
+    "mean_error_reduction_degrees": [
+      7.046754229100171,
+      9.725265329502356
+    ],
+    "retained_coverage": [
+      0.013722329333119012,
+      0.04206505772435839
+    ],
+    "retained_mean_degrees": [
+      6.393455972872258,
+      17.448194983446594
+    ],
+    "retained_over_30": [
+      0.007040846876660715,
+      0.14739678215473348
+    ]
+  },
+  "bootstrap_scope": "Resample cubes, then fibers within each selected cube; 2000 repeats, seed 20260924. Conditional on these six cubes from one evaluation scroll, not six independent scrolls.",
+  "ct_examples": [
+    {
+      "case": "s5_03997_01497_03997_256",
+      "sample_index": 489
+    },
+    {
+      "case": "s5_03997_01497_03997_256",
+      "sample_index": 63
+    }
+  ]
+}

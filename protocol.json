@@ -1,0 +1,18 @@
+{
+  "dataset": "Dataset001_sk-fibers-20250124",
+  "development_scroll": "s1",
+  "evaluation_scroll": "s5",
+  "sample_spacing_voxels": 8,
+  "tangent_half_window_voxels": 8,
+  "common_border_voxels": 32,
+  "gaussian_truncate": 4.0,
+  "parameter_candidates": [[0.75, 1.5], [1.0, 1.0], [1.0, 2.0], [1.0, 4.0], [1.5, 3.0], [2.0, 4.0], [2.0, 6.0]],
+  "reference_parameters": [1.0, 1.0],
+  "selection_metric": "equal-cube mean of equal-fiber mean unoriented angular error",
+  "confidence": "(lambda_middle-lambda_min)/(lambda_middle+lambda_min+1e-12)",
+  "confidence_thresholds": [0.0, 0.25, 0.5, 0.75, 0.9],
+  "bad_angle_degrees": 30,
+  "calibration_target_bad_fraction": 0.1,
+  "bootstrap_seed": 20260924,
+  "notes": "Freeze selection and confidence threshold on Scroll 1 before evaluating Scroll 5. Manual annotations are approximate reference curves. This evaluates local directions, not end-to-end tracing or text recovery."
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "path": "nml/fibers_s1a_00497z_01497y_03997x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s1a_00497z_01497y_03997x_256_v00.nml",
+    "bytes": 693533,
+    "sha256": "76e5bf3927dd9a7e715257a00bf7a64d2d4a226ee834d3afa7666d0cd1d2bca7"
+  },
+  {
+    "path": "imagesTr/s1_00497_01497_03997_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s1_00497_01497_03997_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "0d38453cc37157f46b180e3711172e99f56eb216948eb6755eca0019ad0dbf60"
+  },
+  {
+    "path": "nml/fibers_s1a_00497z_02497y_02997x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s1a_00497z_02497y_02997x_256_v00.nml",
+    "bytes": 743742,
+    "sha256": "a66b4f4b4588a79681a14102a9f1f6cca421759e09b1b8b1236f6bb4e956fd91"
+  },
+  {
+    "path": "imagesTr/s1_00497_02497_02997_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s1_00497_02497_02997_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "8085ce69eab115bf3ddbb4395412295dcaf1271f4b8f7449e1d284bd77979c25"
+  },
+  {
+    "path": "nml/fibers_s1a_00997z_02497y_02997x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s1a_00997z_02497y_02997x_256_v00.nml",
+    "bytes": 764445,
+    "sha256": "a807dbd69fcc765afbb3c5c66c492ff87ff85b57bbca5c2d957b453e1e13b46f"
+  },
+  {
+    "path": "imagesTr/s1_00997_02497_02997_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s1_00997_02497_02997_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "689b2c27e6f4b51817633e2f2062c3e4379eb1b6adbad835ee44b00c7e1bf0a7"
+  },
+  {
+    "path": "nml/fibers_s1a_08997z_02997y_02497x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s1a_08997z_02997y_02497x_256_v00.nml",
+    "bytes": 1774065,
+    "sha256": "974403033951190851c1022e4e0991ab69e401ed9315f56ae23dcf5bcfa1f9ea"
+  },
+  {
+    "path": "imagesTr/s1_08997_02997_02497_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s1_08997_02997_02497_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "15b1307884cbe791a47f35a7ee28d0fc3836fd08122f9dc096196c65e8c33fae"
+  },
+  {
+    "path": "nml/fibers_s1a_10997z_02997y_02997x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s1a_10997z_02997y_02997x_256_v00.nml",
+    "bytes": 729357,
+    "sha256": "b92708ef15c03546200a7219fb15217b55d5b15ba60c8cbd096157e04dc83750"
+  },
+  {
+    "path": "imagesTr/s1_10997_02997_02997_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s1_10997_02997_02997_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "6165ddf51ac1e47fd7f2a7a6bc0e295be6867554ebb64c7c249513f2b7faf62a"
+  },
+  {
+    "path": "nml/fibers_s5_03997z_01497y_03997x_256_v00.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_03997z_01497y_03997x_256_v00.nml",
+    "bytes": 669068,
+    "sha256": "cb3651696fb92fc947da933584320db55a502eead6dbd3a88862412a2344c426"
+  },
+  {
+    "path": "imagesTr/s5_03997_01497_03997_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_03997_01497_03997_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "42f1331651b570ab73037da419de0cce3347050db35796c24f31d9da9542ee39"
+  },
+  {
+    "path": "nml/fibers_s5_06494z_01994y_03994x_512_v03.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_06494z_01994y_03994x_512_v03.nml",
+    "bytes": 4598113,
+    "sha256": "4dd76f7110e6fbea053ef18e7b38b87f16363a67250875666d1a15424c87f7d0"
+  },
+  {
+    "path": "imagesTr/s5_06494_01994_03994_512_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_06494_01994_03994_512_0000.tif",
+    "bytes": 134302810,
+    "sha256": "87e4a11b691d6bf482f4f8c1ca417b741ed2f8b1813f561ad86cf259c0f21468"
+  },
+  {
+    "path": "nml/fibers_s5_06994z_00994y_04994x_512_v01.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_06994z_00994y_04994x_512_v01.nml",
+    "bytes": 5796992,
+    "sha256": "daa11116851742bc697adb8f8ff4fc0ba6bcbbad135c3709b91e7d61ca8c7c91"
+  },
+  {
+    "path": "imagesTr/s5_06994_00994_04994_512_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_06994_00994_04994_512_0000.tif",
+    "bytes": 134302810,
+    "sha256": "de8b56b7969ab88f6ba214901488a53957ddb9ddd5aa1693b7827ea1fa392a38"
+  },
+  {
+    "path": "nml/fibers_s5_07994z_01994y_05494x_512_v01.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_07994z_01994y_05494x_512_v01.nml",
+    "bytes": 3541998,
+    "sha256": "13718844c196c496e389a2eaa3a87caaae409b28ddc85c4702bacbeb2cdf02b2"
+  },
+  {
+    "path": "imagesTr/s5_07994_01994_05494_512_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_07994_01994_05494_512_0000.tif",
+    "bytes": 134302810,
+    "sha256": "910ef33f4a21dc9d0ab58a5a7aaeaf5f55fe2b6afe26a0ea3e254a1f14d99983"
+  },
+  {
+    "path": "nml/fibers_s5_07997z_02997y_05497x_256_v01.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_07997z_02997y_05497x_256_v01.nml",
+    "bytes": 349456,
+    "sha256": "023695765312da7e332d80bd4ee8a6a57fb8a11c3f090784279a4232954a3043"
+  },
+  {
+    "path": "imagesTr/s5_07997_02997_05497_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_07997_02997_05497_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "de6644e0f8145cff6ae9122cef644e68f102320379bc23ef856735de67058f88"
+  },
+  {
+    "path": "nml/fibers_s5_14997z_01497y_01497x_256_v01.nml",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/nml/fibers_s5_14997z_01497y_01497x_256_v01.nml",
+    "bytes": 896907,
+    "sha256": "0aae012a1b9be3e590495d7d03d373ab9b45b98769ff92629c49bfb71a2aedc6"
+  },
+  {
+    "path": "imagesTr/s5_14997_01497_01497_256_0000.tif",
+    "url": "https://dl.ash2txt.org/datasets/fiber-skeletons/Dataset001_sk-fibers-20250124/imagesTr/s5_14997_01497_01497_256_0000.tif",
+    "bytes": 16819802,
+    "sha256": "728f028fa5227b9a4398160c725250793f48033b26cc2b89c67edb1bb4e640c5"
+  }
+]
