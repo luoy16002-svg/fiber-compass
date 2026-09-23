@@ -1,0 +1,31 @@
+name: reproduce-real-data
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m pytest -q
+      - name: Preserve published evidence
+        run: python -c "from pathlib import Path; Path('results').rename('published_results')"
+      - run: python download_data.py
+      - run: python run_benchmark.py develop
+      - run: python run_benchmark.py evaluate
+      - run: python make_report.py
+      - name: Compare every result with the published experiment
+        run: python compare_results.py published_results results
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: independently-reproduced-results
+          path: results/
+          retention-days: 30

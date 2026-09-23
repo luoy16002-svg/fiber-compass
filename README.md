@@ -85,6 +85,8 @@ The confidence score is `(lambda_middle - lambda_min)/(lambda_middle + lambda_mi
 
 Tests cover graph ordering/exclusions, coordinates, analytic cylinder directions, sign invariance, equal-fiber weighting, missing predictions, export seams/boundaries, origin transforms and incompatible-axis interpolation. The benchmark is not a leakage-free evaluation of third-party neural models trained on this dataset; model authors must disclose their own overlap.
 
+The `reproduce-real-data` GitHub Actions workflow can also run the entire experiment in a clean Ubuntu environment. `compare_results.py published_results results` checks all 22 input hashes, all 11 cube results, exclusions, selected parameters and metrics against the committed evidence (floating tolerance 0.001). Standard unit tests run on Windows and Ubuntu with Python 3.11 and 3.13.
+
 ## Credits and licenses
 
 Original software: **MIT**, KAI CHEN. Raw CT and NML annotations are downloaded from their original host and are not redistributed here. CT illustrations retain **CC BY-NC 4.0** and source attribution. See the [official data and citation terms](https://scrollprize.org/data).
